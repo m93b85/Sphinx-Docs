@@ -9,6 +9,7 @@ Welcome to First_sphinx_docs's documentation!
 Contents:
 
 .. toctree::
+   intro
    :maxdepth: 2
 
 
